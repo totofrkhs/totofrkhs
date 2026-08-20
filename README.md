@@ -5,8 +5,4 @@
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light&perline=9)
-
-#### Toolchains & Frameworks :open_file_folder:
-
-![](https://go-skill-icons.vercel.app/api/icons?i=git,C++,C#&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c#bash&theme=light&perline=9)
