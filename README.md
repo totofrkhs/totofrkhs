@@ -3,6 +3,6 @@
 <p>
 <img align="left" src="https://avatars.githubusercontent.com/u/168676466?v=4" width="300" /> 
 
-<!-- Programming Languages -->
+Things i use proficiently:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,godot,unity,html5&theme=light&perline=9)
