@@ -5,4 +5,4 @@
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=cpp,csharp,godot,bash&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,godot,unity,html5&theme=light&perline=9)
