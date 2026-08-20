@@ -7,6 +7,6 @@
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,godot,unity,html5&theme=light&perline=9)
 
-![](https://github.com/totofrkhs/totofrkhs/blob/main/assets/isaac.gif?raw=true)
+![](https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac.gif)
 
 
