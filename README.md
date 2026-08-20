@@ -5,4 +5,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&width=435&lines=Tools+i+use)](https://git.io/typing-svg)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,godot,unity,html5&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,godot,unity,html5&theme=light&perline=9)
