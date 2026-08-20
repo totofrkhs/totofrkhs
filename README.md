@@ -9,4 +9,4 @@
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,elementplus,nodejs,npm,electron,qt,nginx,pytorch,anaconda,docker,mysql,sqlite,oracle,redis,mongodb,neo4j,hadoop&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,C++,C#&theme=light&perline=9)
