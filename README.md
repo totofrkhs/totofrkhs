@@ -8,7 +8,7 @@
 ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,godot,unity,html5&theme=light&perline=9)
 
 <img src="https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac-tboi.gif"
-  alt="isaac dance" width="20"/>
+  alt="isaac dance" width="50"/>
 
 <p>
   https://totofrkhs.github.io/WebPortfolio/
