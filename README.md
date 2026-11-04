@@ -26,7 +26,7 @@ I make stuff.
 - ⚡ **What I focus on:** Game engines and full-stack development.
 - 🎯 **Goal:** Create immersive experiences and clean code.
 - 🏢 **Organization:** Member of [@equipo-dnlabs](https://github.com/equipo-dnlabs)
-- 🕹️ <img src="https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac-tboi.gif" alt="isaac dance" width="25" align="absmiddle"/> *Absolute fan of The Binding of Isaac!*
+- 🕹️ <img src="https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac-tboi.gif" alt="isaac dance" width="25" align="absmiddle"/>
 
 ---
 
