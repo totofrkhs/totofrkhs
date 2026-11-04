@@ -13,30 +13,31 @@
 
 <p align="center">
   <a href="https://totofrkhs.github.io/WebPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visitar_Sitio-ff0000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-ff0000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-### 👋 ¡Hola, bienvenidx a mi espacio!
+### Wassup
 
-Soy un apasionado del desarrollo de software y la creación de videojuegos. Me encanta explorar tecnologías de backend, frontend y motores gráficos para dar vida a ideas interactivas.
+I make stuff.
 
-* ⚡ **En qué me enfoco:** Motores de videojuegos y desarrollo full-stack.
-* 🎯 **Objetivo:** Crear experiencias inmersivas y código limpio.
-* 🕹️ <img src="https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac-tboi.gif" alt="isaac dance" width="25" align="absmiddle"/> *¡Fan absoluto de The Binding of Isaac!*
+- ⚡ **What I focus on:** Game engines and full-stack development.
+- 🎯 **Goal:** Create immersive experiences and clean code.
+- 🏢 **Organization:** Member of [@equipo-dnlabs](https://github.com/equipo-dnlabs)
+- 🕹️ <img src="https://raw.githubusercontent.com/totofrkhs/totofrkhs/main/assets/isaac-tboi.gif" alt="isaac dance" width="25" align="absmiddle"/> *Absolute fan of The Binding of Isaac!*
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Herramientas</h3>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,godot,unity,html5,css,javascript,git,github&theme=dark&perline=10" alt="Tech Stack"/>
 </p>
 
 ---
 
-<h3 align="center">📊 Estadísticas de GitHub</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=totofrkhs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -50,5 +51,5 @@ Soy un apasionado del desarrollo de software y la creación de videojuegos. Me e
 ---
 
 <p align="center">
-  <i>⭐ Gracias por pasarte por aquí. ¡Que tengas un excelente día!</i>
+  <i>I dunno</i>
 </p>
